@@ -57,6 +57,8 @@ public class LoginTest extends TestBase {
 	public void tearDown() {
 		driver.quit();
 		log.info(" ************ Test END ************ ");
+		
+		
 	}
 
 }
